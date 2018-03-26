@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/InterfaceInJava/TestCollege.java" description="public class TestCollege {&#10;}" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2f1ffb0-a8be-4ef4-82db-9ee17c14b722" name="Default" comment="commit3">
+    <list default="true" id="e2f1ffb0-a8be-4ef4-82db-9ee17c14b722" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
   </component>
   <component name="GradleLocalSettings">
@@ -452,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522099767940</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit3">
+      <created>1522100098889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522100098889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
