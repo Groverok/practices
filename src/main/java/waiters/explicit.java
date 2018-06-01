@@ -13,5 +13,6 @@ public class explicit {
         WebDriverWait wait = new WebDriverWait(driver, 10); // будет ждать конкретного элемента.
         wait.until(ExpectedConditions.titleContains("selenium"));
         // the page is loaded but we are still waiting for a call to complete and an element to appear.
+        // The ExpectedCondition class provides a set of predefined conditions to wait before proceeding further in the code.
     }
 }
