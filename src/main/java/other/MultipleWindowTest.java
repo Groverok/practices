@@ -38,7 +38,7 @@ public class MultipleWindowTest {
     @Test
     public void multipleWindowsTest() {
         driver.findElement(OPEN_WINDOW_BUTTON).click();
-        new WebDriverWait(driver, 10).until(ExpectedConditions.numberOfWindowsToBe(2));
+        //new WebDriverWait(driver, 10).until(ExpectedConditions.numberOfWindowsToBe(2));
 
         Set<String> windowHandles = driver.getWindowHandles(); //коллекция с уникальными значениями
         driver.switchTo().window((String) windowHandles.toArray()[1]);

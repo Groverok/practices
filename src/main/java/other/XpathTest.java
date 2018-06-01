@@ -19,7 +19,7 @@ public class XpathTest {
 
     @BeforeMethod
     public void openBrowser() {
-        DesiredCapabilities caps = DesiredCapabilities.firefox();
+        DesiredCapabilities caps = DesiredCapabilities.firefox(); // for FF 47 and higher
         caps.setAcceptInsecureCerts(true);
         driver = new FirefoxDriver(caps);
         driver.get(URL);
