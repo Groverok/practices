@@ -1,119 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2f1ffb0-a8be-4ef4-82db-9ee17c14b722" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TechExamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/other/CheckboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/CheckboxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/other/FrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/FrameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simpleTests/googleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/googleSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/waiters/explicit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/waiters/explicit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Constructor/Constr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataProviderr/DataProviderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EpamTasks/Arr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EpamTasks/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EpamTasks/ArrayExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EpamTasks/hhz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EpamTasks/numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IO/DataFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IO/StringReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IO/WriterReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterfaceInJava/College.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterfaceInJava/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterfaceInJava/Mechanical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterfaceInJava/TestCollege.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObjectsMethods/ClassGet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObjectsMethods/Equals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObjectsMethods/HashCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObjectsMethods/stringTo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjectPattern/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjectPattern/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjectPattern/TestPageObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RoomProject/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RoomProject/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RoomProject/Capacity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RoomProject/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RoomProject/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Selenium/CaptureScreenshots.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestNgt/TestParallelOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestNgt/TestParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestNgt/groupExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestNgt/testNGPriorityExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractt/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractt/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractt/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractt/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ArrayExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ArrayList2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ArrayListClassExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/CollectionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/Hash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/HashMapExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/LinkedListClassExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/Constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/ConstructorParameterized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/ConvertStringToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/DefaultConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/Fibonacci2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/FibonacciExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/FibonacciSeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/Generics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/InputMyName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/InstanceVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/JavaVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/JavaVariable2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/JavaVariable3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/NullPointerException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/ParameterizedConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/ReadWriteTextFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/ReverseString2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/ReverseWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/SwapNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/TestArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/examples/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/operators/Test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/ArraySort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/CheckboxTest$Checkbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/CheckboxTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/DefaultConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/DropdownTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/DynamicLoadingTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/Equals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/Equals2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/Equals3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/FibonacciSeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/FrameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/Generics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/HashCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/JavaVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/JavaVariable2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/JavaVariable3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/JsAlertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/KeyPressTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/MultipleWindowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/ParameterizedConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/StringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/TestArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other/XpathTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ownException/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ownException/FactorialException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ownException/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Сircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/superrThis/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/superrThis/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/superrThis/Test.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e2f1ffb0-a8be-4ef4-82db-9ee17c14b722" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -134,26 +22,26 @@
       <file leaf-file-name="checkAllCheckboxes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/checkAllCheckboxes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Swapping.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Swapping.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/Swapping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="280">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="191">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -168,6 +56,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Groverok" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -226,8 +119,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Selenium/loginCredsAuth.java" />
         <option value="$PROJECT_DIR$/src/main/java/Selenium/HeadlessBrowser.java" />
         <option value="$PROJECT_DIR$/src/main/java/Selenium/checkAllCheckboxes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Selenium/Swapping.java" />
         <option value="$PROJECT_DIR$/src/main/java/Selenium/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Selenium/Swapping.java" />
       </list>
     </option>
   </component>
@@ -572,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527880870059</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit 666">
+      <created>1528259637906</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528259637906</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit 666">
+      <created>1528259884285</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528259884285</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -618,6 +525,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.28816468" />
@@ -628,11 +536,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5036603" side_tool="true" weight="0.24752475" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49633968" weight="0.24752475" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.32761577" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.26243567" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.2769231" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
@@ -730,7 +638,8 @@
     <MESSAGE value="commit3" />
     <MESSAGE value="commit4" />
     <MESSAGE value="commit5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit5" />
+    <MESSAGE value="commit 666" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 666" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1047,13 +956,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/checkAllCheckboxes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -1065,17 +967,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/Swapping.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="191">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/checkAllCheckboxes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Selenium/Swapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
