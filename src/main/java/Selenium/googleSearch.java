@@ -1,4 +1,4 @@
-package simpleTests;
+package Selenium;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -11,7 +11,7 @@ public class googleSearch {
     @Test
     public void testGoogleSearch() throws InterruptedException {
         // Optional, if not specified, WebDriver will search your path for chromedriver.
-        System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
+        //System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("http://www.google.com/xhtml");
